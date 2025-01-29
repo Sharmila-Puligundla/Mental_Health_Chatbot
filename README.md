@@ -1,9 +1,9 @@
-# Medical Chatbot with Generative AI
+# Mental Health Chatbot with Generative AI
 
 
 ## Project Description
 
-This project is an end-to-end medical chatbot powered by Generative AI. The chatbot is designed to assist users with medical-related queries by leveraging advanced natural language processing (NLP) techniques. It uses a combination of Pinecone for vector storage, OpenAI for language generation, and various other technologies to provide accurate and concise answers to user questions.
+This project is an end-to-end medical and mental health chatbot powered by Generative AI. The chatbot is designed to assist users with mental health-related queries by leveraging advanced natural language processing (NLP) techniques. It uses a combination of Pinecone for vector storage, OpenAI for language generation, and various other technologies to provide accurate and concise answers to user questions.
 
 ### Technologies Used
 
